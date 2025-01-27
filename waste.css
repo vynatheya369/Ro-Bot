@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('assets/header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+section {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
